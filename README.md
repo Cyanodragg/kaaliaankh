@@ -1,4 +1,4 @@
-# 🎯 Kaaliaankh (BlackEye) - Phishing via Email!
+# 🎯 Kaaliaankh (BlackEye) - Phishing via Email
 
 **Kaaliaankh** is a social engineering and phishing simulation tool built for cybersecurity research and ethical hacking training. It generates fake login pages and provides a disguised phishing link that can be used in **email-based clickjacking** scenarios to demonstrate real-world phishing attacks.
 
